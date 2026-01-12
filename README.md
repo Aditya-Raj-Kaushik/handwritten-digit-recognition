@@ -32,6 +32,13 @@ It contains:
 
 The notebook assumes the dataset file is available locally in the working directory.
 
+## Dataset Note
+
+The MNIST CSV dataset is not included in this repository due to GitHub file size limits.
+Please download the dataset separately from Kaggle and place it in the project directory
+before running the notebook.
+
+
 ---
 
 ## Approach and Workflow
